@@ -21,3 +21,4 @@ LazyData: true
 RoxygenNote: 7.2.3
 VignetteBuilder: knitr
 biocViews: ShinyApps, Genetics, Visualization
+URL: https://kmezhoud.github.io/shinyD3/
