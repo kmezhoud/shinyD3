@@ -1,5 +1,5 @@
 ---
-title: ShinyD3: A D3 warpper to Shiny App
+title: ShinyD3 - A D3 warpper to Shiny App
 author: "Karim Mezhoud"
 date: "`r Sys.Date()`"
 output:
@@ -10,6 +10,7 @@ output:
     fig_caption: true
     highlight: tango
 runtime: shiny
+
 ---
 
 
