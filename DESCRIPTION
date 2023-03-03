@@ -1,0 +1,23 @@
+Package: shinyD3
+Type: Package
+Title: D3 Wrapper to Shiny App
+Version: 0.99.0
+Language: en-US
+Author: Karim Mezhoud
+Maintainer: Karim Mezhoud <kmezhoud@gmail.com>
+Description: D3 Wrapper to Shiny App.
+Depends:
+    shiny,
+    jsonlite,
+    tidyverse,
+    DT,
+    utils
+Suggests:
+    knitr,
+    testthat
+License: AGPL-3 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+VignetteBuilder: knitr
+biocViews: ShinyApps, Genetics, Visualization
