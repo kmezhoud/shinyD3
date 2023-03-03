@@ -1,4 +1,2 @@
-# shinyD3: D3 warapper to shiny App
 
-<img src="man/figures/logo.png" alt= "" width="100" height="100" align ="right">
-
+# ShinyD3: A D3 warpper to Shiny App <img src="man/figures/logo.png" align="right" alt="containerit logo" width="200" style="padding: 0 0 10px 10px;" />
