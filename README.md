@@ -1,2 +1,8 @@
 
 # ShinyD3: A `D3.js` wrapper to Shiny App <img src="man/figures/logo.png" align="right" alt="containerit logo" width="200" style="padding: 0 0 10px 10px;" />
+
+useful resources to Wrap D3 in R:
+
+- [R2D3](https://rstudio.github.io/r2d3/index.html)
+
+- [shiny.gosling](https://github.com/Appsilon/shiny.gosling)
