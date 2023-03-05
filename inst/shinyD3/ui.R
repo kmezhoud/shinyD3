@@ -9,9 +9,16 @@
 
 library(shiny)
 
+
 # Define UI for application that draws a histogram
 fluidPage(
 
+  #Bring in the style sheet from the www folder
+  tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "style.css")),
+  
+  #Tell shiny what version of d3 we want
+  tags$script(src='//d3js.org/d3.v3.min.js'),
+  
     # Application title
     titlePanel("D3 and R, a match made in heaven"),
 
@@ -19,12 +26,18 @@ fluidPage(
     sidebarLayout(
         sidebarPanel(
           
-          
-          
+          #Dropdown list with the vehicle classes  
+          selectInput(inputId = "vehicleClass",
+                      label = 'Select a Vehicle Class',
+                      choices = c('','compact', 'midsize', 'suv', '2seater', 'minivan', 'pickup', 'subcompact'),
+                      selected = ''
+          )
         ),
 
         # Show a plot of the generated distribution
         mainPanel(
+          #The d3 graph
+          uiOutput("d3")
 
         )
     )
