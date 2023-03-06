@@ -1,6 +1,10 @@
+# shinyD3 0.99.10
+
+* Introduce multiple examples
+
 # shinyD3 0.99.01
 
-* Transform package for multiple example
+* Introduce the first example
 
 # shinyD3 0.99.0 
 

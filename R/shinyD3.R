@@ -1,6 +1,6 @@
 #' Valid Examples
 valid_examples <- c(
-  "barplot"
+  "barplot", "force_network"
 )
 
 #' Launch shinyD3 with default browser

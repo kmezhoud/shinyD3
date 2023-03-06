@@ -5,7 +5,7 @@
 \alias{valid_examples}
 \title{Valid Examples}
 \format{
-An object of class \code{character} of length 1.
+An object of class \code{character} of length 2.
 }
 \usage{
 valid_examples
