@@ -20,7 +20,7 @@ fluidPage(
   tags$script(src='//d3js.org/d3.v3.min.js'),
   
     # Application title
-    titlePanel("D3 and R, a match made in heaven"),
+    titlePanel("D3 barplot Example"),
 
     # Sidebar with a slider input for number of bins
     sidebarLayout(

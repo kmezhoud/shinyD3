@@ -5,17 +5,20 @@
 \alias{shinyD3}
 \title{Launch shinyD3 with default browser}
 \usage{
-shinyD3()
+shinyD3(example)
+}
+\arguments{
+\item{example}{A  a valid string example of visualization}
 }
 \value{
-a shiny app launched in the web/mobile page
+a shiny app with D3 library launched in the web page
 }
 \description{
 Launch shinyD3 with default browser
 }
 \examples{
 if(interactive()){
-shinyD3()
+shinyD3(example= "barplot")
 }
 
 }

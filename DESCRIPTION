@@ -1,7 +1,7 @@
 Package: shinyD3
 Type: Package
 Title: D3 Wrapper to Shiny App
-Version: 0.99.0
+Version: 0.99.01
 Language: en-US
 Author: Karim Mezhoud
 Maintainer: Karim Mezhoud <kmezhoud@gmail.com>

@@ -36,5 +36,12 @@ function(input, output, session) {
   output$d3<- renderUI({
     HTML('<script type="text/javascript", src="script.js">  </script>')
   })
+  
+  
+  # stop app if session is ended
+  session$onSessionEnded(function() {
+      stopApp()
+      print(" Barpot session is ended!")
+  })
 
 }
