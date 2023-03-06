@@ -7,10 +7,10 @@
     <loc>https://kmezhoud.github.io/shinyD3/LICENSE-text.html</loc>
   </url>
   <url>
-    <loc>https://kmezhoud.github.io/shinyD3/articles/index.html</loc>
+    <loc>https://kmezhoud.github.io/shinyD3/articles/barplot.html</loc>
   </url>
   <url>
-    <loc>https://kmezhoud.github.io/shinyD3/articles/shinyD3.html</loc>
+    <loc>https://kmezhoud.github.io/shinyD3/articles/index.html</loc>
   </url>
   <url>
     <loc>https://kmezhoud.github.io/shinyD3/authors.html</loc>
@@ -26,5 +26,8 @@
   </url>
   <url>
     <loc>https://kmezhoud.github.io/shinyD3/reference/shinyD3.html</loc>
+  </url>
+  <url>
+    <loc>https://kmezhoud.github.io/shinyD3/reference/valid_examples.html</loc>
   </url>
 </urlset>

@@ -2,8 +2,8 @@ pandoc: 2.19.2
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
-  shinyD3: shinyD3.html
-last_built: 2023-03-05T15:40Z
+  barplot: barplot.html
+last_built: 2023-03-06T09:45Z
 urls:
   reference: https://kmezhoud.github.io/shinyD3/reference
   article: https://kmezhoud.github.io/shinyD3/articles
