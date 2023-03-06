@@ -1,4 +1,4 @@
-# shinyD3 0.99.10
+# shinyD3 0.99.02
 
 * Introduce multiple examples
 
@@ -6,6 +6,6 @@
 
 * Introduce the first example
 
-# shinyD3 0.99.0 
+# shinyD3 0.99.00
 
 * shiny app with first example
