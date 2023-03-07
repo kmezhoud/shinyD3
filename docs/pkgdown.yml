@@ -5,7 +5,8 @@ articles:
   barplot: barplot.html
   chords: chords.html
   force_network: force_network.html
-last_built: 2023-03-06T13:27Z
+  r2d3: r2d3.html
+last_built: 2023-03-07T09:14Z
 urls:
   reference: https://kmezhoud.github.io/shinyD3/reference
   article: https://kmezhoud.github.io/shinyD3/articles
