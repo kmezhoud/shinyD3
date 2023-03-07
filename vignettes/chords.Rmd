@@ -13,6 +13,8 @@ output:
 always_allow_html: true
 ---
 
+[source code](https://github.com/nicgirault/circosJS/tree/master/demo) from [`circosJS`](https://github.com/nicgirault/circosJS)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -203,6 +205,9 @@ shinyServer(function(input, output, session) {
 ```
 
 
-## Error
+## Errors
 
 ![](chords.png)
+
+![](chords2.png)
+
