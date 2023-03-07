@@ -1,3 +1,7 @@
+// !preview r2d3 data = matrix(round(runif(16, 1, 10000)), ncol = 4, nrow = 4)
+
+// Based on https://bl.ocks.org/mbostock/4062006
+
 var gieStainColor = {
   gpos100: 'rgb(0,0,0)',
   gpos: 'rgb(0,0,0)',
